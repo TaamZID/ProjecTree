@@ -1,7 +1,7 @@
 # ProjecTree : A for-profit tree plantation organization [website]
 Final term project for WEB TECHNOLOGIES course. 
 
-In this system, a company named “ProjecTree” is working as a for-profit organization to restore the eco-system and restore the proper number of trees in the environment. There are four roles in this project; Admin, Volunteer, Planter & Donor. 
+In this management system, a company named “ProjecTree” is working as a for-profit organization to restore the eco-system and restore the proper number of trees in the environment. There are four roles in this project; Admin, Volunteer, Planter & Donor. 
 
 # Admin 
 The admin has the most powerful role in the company after the chiefs. The admin can control everyone. Admin can view and edit his profile, volunteer’s profile, user’s profile and donor’s profile. Admin can manage the whole database. S/he can check the donate history. The admin can check the tree plantation progress and check the details of planted trees and update the website in real-time. 
