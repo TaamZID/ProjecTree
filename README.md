@@ -1,4 +1,4 @@
-# ProjecTree - A for-profit tree plantation organization website
+# ProjecTree : A for-profit tree plantation organization website
 Final term project for WEB TECHNOLOGIES course. 
 
 In this system, a company named “ProjecTree” is working as a for-profit organization to restore the eco-system and restore the proper number of trees in the environment. There are four roles in the project; Admin, Volunteer, Planter & Donor. 
