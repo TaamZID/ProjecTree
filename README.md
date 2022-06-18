@@ -1,5 +1,5 @@
-# ProjecTree : A for-profit tree plantation organization [website] - https://taamzid.github.io/ProjecTree/
-Final term project for WEB TECHNOLOGIES course. 
+# ProjecTree : A for-profit tree plantation organization [website] 
+Final term project for WEB TECHNOLOGIES course. - https://taamzid.github.io/ProjecTree/
 
 In this management system, a company named “ProjecTree” is working as a for-profit organization to restore the eco-system and restore the proper number of trees in the environment. There are four roles in this project; Admin, Volunteer, Planter & Donor. 
 
